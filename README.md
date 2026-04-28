@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI & Data Science Engineer | 💡 Aspiring Data Analyst | 🌍 Building Sustainable Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+EnthusiastProblem+Solver+%7C+Open+Source+Learner&center=true&width=520&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Problem+Solver+%7C+Open+Source+Learner&center=true&width=520&height=50">
 </p>
 
 <p align="center">
