@@ -108,6 +108,9 @@
   <a href="https://leetcode.com/u/Brindha22">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/brindha-sr/brindha-sr.github.io">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo="github"/>
+  </a>
 </p>
 
 ---
