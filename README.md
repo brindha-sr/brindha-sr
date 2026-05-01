@@ -110,7 +110,7 @@
   </a>
   <a href="https://brindha-sr.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  </a>
 </p>
 
 ---
