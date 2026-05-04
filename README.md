@@ -42,7 +42,7 @@
 
 ### 📦 Inventory Management System
 
-* Developed backend using **Java + JDBC + MySQL**
+* Developed backend using **Java + MySQL**
 * Reduced manual tracking effort by **30%**
 * Implemented **stock alerts & reporting system**
 
@@ -59,7 +59,6 @@
 ### 👨‍💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge\&logo=database)
 
 ### 🌐 Web & Databases
 
@@ -67,7 +66,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge\&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
 
 ### 🧰 Tools & Analytics
 
