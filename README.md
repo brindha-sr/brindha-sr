@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Data Science** (2023–2027)
+🎓 B.Tech in **Artificial Intelligence and Data Science** (2023–2027)
 📍 Kongu Engineering College 
 💡 Passionate about building **scalable, real-world solutions**
 🌱 Focused on **AI systems, sustainability & smart applications**
@@ -40,18 +40,18 @@
 
 ## 📊 Other Projects
 
+### 📈 Stock Price Prediction System
+
+*Built an end-to-end deep learning pipeline using a stacked **LSTM neural network (TensorFlow/Keras)** trained on 3 years of live Apple stock data fetched via the yfinance API.
+*Engineered 5 financial features — RSI, 20/50-day Moving Averages, Bollinger Bands, and Price Change % — achieving **60%+ directional accuracy** on unseen test data.
+*Developed an **AI-driven Buy/Sell signal engine** combining LSTM predictions with RSI indicators to generate actionable trading recommendations.
+*Implemented a **recursive 7-day future price forecast** and visualised results in a multi-panel Matplotlib dashboard exported as shareable PNG reports.
+
 ### 📦 Inventory Management System
 
 * Developed backend using **Java + MySQL**
 * Reduced manual tracking effort by **30%**
 * Implemented **stock alerts & reporting system**
-
-### 📈 Stock Price Prediction System
-
-* Built ML model using **Scikit-Learn (Python)**
-* Improved prediction accuracy by **12%**
-* Visualized trends using **Matplotlib**
-
 ---
 
 ## 💻 Tech Stack
@@ -113,7 +113,7 @@
 </p>
 
 ---
-
+   
 ## 💡 Personal Motto
 
 ⭐ *"Building intelligent systems that create real-world impact — for people and the planet."*
