@@ -42,10 +42,10 @@
 
 ### 📈 Stock Price Prediction System
 
-*Built an end-to-end deep learning pipeline using a stacked **LSTM neural network (TensorFlow/Keras)** trained on 3 years of live Apple stock data fetched via the yfinance API.
-*Engineered 5 financial features — RSI, 20/50-day Moving Averages, Bollinger Bands, and Price Change % — achieving **60%+ directional accuracy** on unseen test data.
-*Developed an **AI-driven Buy/Sell signal engine** combining LSTM predictions with RSI indicators to generate actionable trading recommendations.
-*Implemented a **recursive 7-day future price forecast** and visualised results in a multi-panel Matplotlib dashboard exported as shareable PNG reports.
+* Built an end-to-end deep learning pipeline using a stacked **LSTM neural network (TensorFlow/Keras)** trained on 3 years of live Apple     stock data fetched via the yfinance API.
+* Engineered 5 financial features — RSI, 20/50-day Moving Averages, Bollinger Bands, and Price Change % — achieving **60%+ directional       accuracy** on unseen test data.
+* Developed an **AI-driven Buy/Sell signal engine** combining LSTM predictions with RSI indicators to generate actionable trading            recommendations.
+* Implemented a **recursive 7-day future price forecast** and visualised results in a multi-panel Matplotlib dashboard exported as           shareable PNG reports.
 
 ### 📦 Inventory Management System
 
