@@ -40,7 +40,7 @@
 
 ## 📊 Other Projects
 
-### 📈 Stock Price Prediction System
+### 📈 AI Powered Stock Price Prediction System using LSTM 
 
 * Built an end-to-end deep learning pipeline using a stacked **LSTM neural network (TensorFlow/Keras)** trained on 3 years of live Apple     stock data fetched via the yfinance API.
 * Engineered 5 financial features — RSI, 20/50-day Moving Averages, Bollinger Bands, and Price Change % — achieving **60%+ directional       accuracy** on unseen test data.
