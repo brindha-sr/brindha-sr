@@ -107,7 +107,7 @@
   <a href="https://leetcode.com/u/Brindha22">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
   </a>
-  <a href="https://brindha-sr.github.io/">
+  <a href="https://github.com/brindha-sr/Portfolio
   <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
