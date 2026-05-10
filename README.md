@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brindha S</h1>
-<h3 align="center">🚀 AI & Data Science Engineer | 💡 Aspiring Data Analyst | 💡 Machine Learning Enthusiast| 🌍 Building Sustainable Tech Solutions</h3> 
+<h3 align="center">🚀 AI & Data Science Engineer | 💡 Aspiring Data Analyst | 💡 Machine Learning Enthusiast | 🌍 Building Sustainable Tech Solutions</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Problem+Solver+%7C+Open+Source+Learner&center=true&width=520&height=50">
