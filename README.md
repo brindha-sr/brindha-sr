@@ -17,8 +17,8 @@
 🎓 B.Tech in **Artificial Intelligence and Data Science** (2023–2027)
 📍 Kongu Engineering College 
 💡 Passionate about building **scalable, real-world solutions**
-🌱 Focused on **AI systems, sustainability & smart applications**
-🎯 Target Role: **Software Engineer**
+🌱 Focused on **Problemm solving, AI systems, sustainability & smart applications**
+🎯 Target Role: **Software Engineer, Data Analyst, Digital Specialist Engineer, Software Developer**
 
 ---
 
